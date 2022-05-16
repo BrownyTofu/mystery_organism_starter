@@ -1,1 +1,1 @@
-1. This project is from Codecademy
+1. This project is from [Codecademy](www.codecademy.com)
